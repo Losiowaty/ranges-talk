@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Intro'/>
+        <page name='Basics'/>
+        <page name='CollectionType'/>
+        <page name='Subscript'/>
+        <page name='What'/>
+        <page name='Extending_Doubles'/>
+        <page name='Extending_Doubles_Decimals'/>
+        <page name='Extending_Strings'/>
+        <page name='Extending_Custom'/>
+        <page name='Extending_Downward'/>
+        <page name='Extending_Ranges'/>
+        <page name='Crazy'/>
+        <page name='End'/>
+        <page name='Questions'/>
+    </pages>
+</playground>
